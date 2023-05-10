@@ -1,0 +1,13 @@
+#info {
+  .info {
+    display: flex;
+    align-items: start;
+    margin: 30px 0;
+    &--left {
+      margin: 20px 15rem;
+      h3 {
+        padding: 20px 0;
+      }
+    }
+  }
+}

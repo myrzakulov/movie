@@ -1,0 +1,9 @@
+.actors {
+  display: flex;
+  &--img {
+    margin: 40px 20px;
+    h2 {
+      padding: 10px 0;
+    }
+  }
+}

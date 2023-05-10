@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+.movie {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+body {
+  background: rgba(255, 255, 255, 0.82);
+}
+.search_movie {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.moves-search {
+  width: 280px;
+  height: 400px;
+  margin: 20px 0;
+  align-items: center;
+  background: rgba(49, 213, 43, 0.3);
+  text-align: center;
+  padding: 20px 20px;
+  box-shadow: 10px 20px 20px black;
+  border-radius: 40px;
+}
